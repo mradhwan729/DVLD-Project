@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1cf28e5-0a19-434a-9be6-279797b76275" /># 🚗 Driving & Vehicle Licensing Department (DVLD) System
+🚗 Driving & Vehicle Licensing Department (DVLD) System
 
 A comprehensive Desktop Enterprise Solution built to streamline and automate all operations of the **Driving & Vehicle Licensing Department**. The system covers the entire workflow from applicant intake, multi-tier test scheduling, and examination processing, to license issuance, renewals, replacements, and international license tracking.
 
